@@ -2,28 +2,18 @@ h1 {
   text-align: center; color: #2f5687;
 }
 
-.text2cols {
-display: table;
-width: 100%;
-border-collapse: collapse;
+ .text2cols {
+overflow: hidden;
 }
 
 ol {
-display: table-row;
-}
-
-h1 {
-display: table-cell;
-width: 50%;
-vertical-align: top;
-padding: 0;
+float: left;
+width: 48%;
 background: #fff2e1;
 }
 
-ol h1:first-child {
-border-right: 30px solid #fff;
-}
-
-ol h1:last-child {
-border-left: 30px solid #fff;
+h1 {
+margin-left: 52%;
+background: #fff2e1;
+height: 26%;
 }
