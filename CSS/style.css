@@ -2,15 +2,28 @@ h1 {
   text-align: center; color: #2f5687;
 }
 
-ol {
-white-space: normal;
-background: #FFC0CB;
+.text2cols {
+display: table;
+width: 100%;
+border-collapse: collapse;
 }
 
-h1 {
-white-space: normal;
-display: inline-block;
-width: 48%;
+.text2cols-row {
+display: table-row;
+}
+
+.text2cols-item {
+display: table-cell;
+width: 50%;
 vertical-align: top;
+padding: 0;
 background: #fff2e1;
+}
+
+.text2cols-row .text2cols-item:first-child {
+border-right: 30px solid #fff;
+}
+
+.text2cols-row .text2cols-item:last-child {
+border-left: 30px solid #fff;
 }
