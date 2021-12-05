@@ -1,19 +1,17 @@
 h1 {
  text-align: center
 }
-
-.text2cols {
-overflow: hidden;
+#maket {
+width: 100%; /* Ширина всей таблицы */
 }
-
-ol {
-float: left;
-width: 48%;
-background: #fff2e1;
+TD {
+vertical-align: top; /* Вертикальное выравнивание в ячейках */
+padding: 5px; /* Поля вокруг ячеек */
 }
-
-h1 {
-margin-left: 52%;
-background: #fff2e1;
-height: 26%;
+TD#leftcol {
+width: 250px; /* Ширина левой колонки */
+background: #ccc; /* Цвет фона левой колонки */
+}
+TD#rightcol {
+background: #fc3; /* Цвет фона правой колонки */
 }
