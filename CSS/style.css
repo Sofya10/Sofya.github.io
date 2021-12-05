@@ -2,27 +2,21 @@ h1 {
   text-align: center; color: #2f5687;
 }
 ol {
-
-white-space: nowrap;
-
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+width: 100%;
 }
 
 h1 {
-
-white-space: normal;
-
-display: inline-block;
-
-width: 48%;
-
-vertical-align: top;
-
+display: flex;
+flex-direction: column;
+flex-basis: 100%;
+flex: 1;
+height: 48%;
 background: #fff2e1;
-
 }
 
-ol h1:first-child {
-
-margin-right: 4%;
-
+ol + h1 {
+margin-left: 4%;
 }
