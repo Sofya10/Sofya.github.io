@@ -1,4 +1,8 @@
- .text2cols {
+h1 {
+ text-align: center
+}
+
+.text2cols {
 overflow: hidden;
 }
 
