@@ -1,17 +1,18 @@
 h1 {
  text-align: center
 }
-#maket {
-width: 100%; /* Ширина всей таблицы */
+.text2cols {
+white-space: nowrap;
 }
-TD {
-vertical-align: top; /* Вертикальное выравнивание в ячейках */
-padding: 5px; /* Поля вокруг ячеек */
+
+.text2cols-item {
+white-space: normal;
+display: inline-block;
+width: 48%;
+vertical-align: top;
+background: #fff2e1;
 }
-TD#leftcol {
-width: 250px; /* Ширина левой колонки */
-background: #ccc; /* Цвет фона левой колонки */
-}
-TD#rightcol {
-background: #fc3; /* Цвет фона правой колонки */
+
+.text2cols .text2cols-item:first-child {
+margin-right: 4%;
 }
