@@ -11,6 +11,9 @@ display: inline-block;
 width: 48%;
 vertical-align: top;
 background: #fff2e1;
+}
+
+li{
 border: 1px solid red;
 padding: 10px;
 }
