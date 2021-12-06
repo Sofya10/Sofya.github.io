@@ -3,6 +3,8 @@ h1 {
 }
 .text2cols {
 white-space: nowrap;
+border: 1px solid red;
+padding: 10px;
 }
 
 .text2cols-item {
