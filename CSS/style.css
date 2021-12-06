@@ -12,6 +12,14 @@ width: 48%;
 vertical-align: top;
 background: #fff2e1;
 }
+.text2cols-item1 {
+white-space: normal;
+display: inline-block;
+width: 48%;
+vertical-align: top;
+background: #fff2e1;
+height: 26%;
+}
 
 li{
 border: 1px solid red;
