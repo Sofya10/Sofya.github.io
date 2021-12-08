@@ -5,7 +5,7 @@ h1 {
 white-space: nowrap;
 }
 
-li {
+ul {
 white-space: normal;
 display: inline-block;
 width: 48%;
