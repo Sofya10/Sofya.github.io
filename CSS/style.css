@@ -5,7 +5,7 @@ h1 {
 white-space: nowrap;
 }
 
-.text2cols-item {
+li {
 white-space: normal;
 display: inline-block;
 width: 48%;
