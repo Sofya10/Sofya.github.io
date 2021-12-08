@@ -11,7 +11,8 @@ display: inline-block;
 width: 48%;
 vertical-align: top;
 background: #fff2e1;
- line-height: 5%;
+margin-block-start: 20px;
+margin-block-end: 32px;;
 }
 .text2cols-item1 {
 white-space: normal;
