@@ -11,13 +11,8 @@ display: inline-block;
 width: 48%;
 vertical-align: top;
 background: #fff2e1;
-background-clip: padding-box;
-border-style: groove;
-border-color: #E6E6FA;
-border-width: 4%;
 margin-block-start: 20px;
 margin-block-end: 32px;
-justify-content: flex-end;
 }
 .text2cols-item1 {
 white-space: normal;
@@ -31,4 +26,9 @@ height: 48%;
 li{
 border: 1px solid red;
 padding: 10px;
+ background-clip: padding-box;
+border-style: groove;
+border-color: #E6E6FA;
+border-width: 4%;
+justify-content: flex-end;
 }
