@@ -2,6 +2,7 @@ h1 {
  text-align: center
 }
 .text2cols {
+ justify-content: flex-end;
 white-space: nowrap;
 }
 
