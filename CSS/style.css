@@ -1,32 +1,3 @@
 h1 {
  text-align: center
 }
-.text2cols {
- justify-content: flex-end;
-white-space: nowrap;
-}
-
-ul {
-white-space: normal;
-display: inline-block;
-width: 38%;
-vertical-align: top;
-background: #fff2e1;
-margin-block-start: 20px;
-margin-block-end: 32px;
-}
-.text2cols-item1 {
-white-space: normal;
-display: inline-block;
-width: 38%;
-}
-
-li{
-border: 1px solid red;
-padding: 10px;
- background-clip: padding-box;
-border-style: groove;
-border-color: #E6E6FA;
-border-width: 20%;
-justify-content: flex-end;
-}
