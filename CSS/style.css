@@ -4,4 +4,5 @@ h1 {
 blooc {
  display: inline-block;
  list-style: none;
+ border: 1px solid red;
 }
