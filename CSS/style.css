@@ -8,6 +8,10 @@ ol{
  vertical-align: middle;
 }
 
+li{
+ display: block;
+}
+
 .col2{ 
  display: inline-block;
  list-style: none;
