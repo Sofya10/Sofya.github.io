@@ -2,7 +2,7 @@ h1 {
  text-align: center
 }
 ol{ 
- display: inline-flex;
+ display: inline-block;
  vertical-align: middle;
  width: 50%;
 }
@@ -15,7 +15,7 @@ li{
 }
 
 .col2{ 
- display: inline-flex;
+ display: inline-block;
  border: 1px solid red;
  vertical-align: middle;
  height: 40%;
