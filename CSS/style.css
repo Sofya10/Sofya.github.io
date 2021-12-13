@@ -11,6 +11,7 @@ li{
  display: inline-block;
  border: 1px solid red;
  margin-bottom: 10px;
+ flex-direction: column;
  justify-content: flex-end;
 }
 
