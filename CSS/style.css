@@ -3,7 +3,6 @@ h1 {
 }
 ol{ 
  display: inline-block;
- list-style: none;
  border: 1px solid red;
  vertical-align: middle;
 }
