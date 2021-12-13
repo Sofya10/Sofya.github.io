@@ -20,4 +20,6 @@ li{
  border: 1px solid red;
  vertical-align: middle;
  height: 40%;
+ border-radius: 0 285px 285px 0;
+ border-right: 1px solid
 }
