@@ -4,8 +4,7 @@ h1 {
 ol{ 
  display: inline-flex;
  vertical-align: middle;
- width: 50%
- border: 1px solid red;
+ width: 50%;
 }
 
 li{
