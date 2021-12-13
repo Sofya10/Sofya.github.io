@@ -4,6 +4,7 @@ h1 {
 ol{ 
  display: inline-block;
  vertical-align: middle;
+ width: 50%
 }
 
 li{
