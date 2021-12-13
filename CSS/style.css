@@ -5,6 +5,7 @@ ol{
  display: inline-flex;
  vertical-align: middle;
  width: 50%
+ border: 1px solid red;
 }
 
 li{
@@ -18,7 +19,6 @@ li{
 
 .col2{ 
  display: inline-flex;
- list-style: none;
  border: 1px solid red;
  vertical-align: middle;
  height: 40%;
