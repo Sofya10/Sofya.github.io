@@ -27,3 +27,7 @@ li{
  border-radius: 0 285px 285px 0;
  border-right: 1px solid
 }
+
+p{
+ border: 1px solid red;
+}
