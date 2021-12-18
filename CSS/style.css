@@ -8,18 +8,6 @@ ol{
  border: 1px solid red;
 }
 
-p{
- display: block;
- border: 1px solid red;
- margin-bottom: 10px;
- margin-reft: 0%;
- border-top-left-radius: 20px;
- border-top-right-radius: 0px;
- border-bottom-right-radius: 0px;
- border-bottom-left-radius: 20px;
- margin: 0 0 10px auto;
-}
-
 li{
  display: block;
  border: 1px solid red;
