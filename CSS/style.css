@@ -36,5 +36,9 @@ p{
  vertical-align: middle;
  height: 36%;
  border-radius: 0 285px 285px 0;
- border-right: 1px solid
+ border-right: 1px solid;
+}
+
+a{
+  display: inline-block;
 }
