@@ -9,7 +9,7 @@ ol{
 }
 
 li{
- display: block;
+ display:inline-block;
  border: 1px solid red;
  margin-bottom: 10px;
  margin-reft: 0%;
