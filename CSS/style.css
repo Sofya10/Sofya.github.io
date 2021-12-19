@@ -42,5 +42,5 @@ p{
 .a{
  display: flex;
  flex-direction: row-reverse;
- justify-content: flex-start;
+ justify-content: flex-end;
 }
