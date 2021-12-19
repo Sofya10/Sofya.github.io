@@ -40,5 +40,6 @@ p{
 }
 
 .a{
-  display:block;
+  display: flex;
+  flex-direction: row-reverse;
 }
